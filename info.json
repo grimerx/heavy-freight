@@ -1,7 +1,7 @@
 {
 	"name": "heavyfreight",
-	"version": "0.2.0",
-	"factorio_version": "0.17",
+	"version": "0.3.0",
+	"factorio_version": "0.18",
 	"title": "Heavy Freight",
 	"author": "GrimerX",
 	"description": "Makes trains run slower and consume more fuel.",
