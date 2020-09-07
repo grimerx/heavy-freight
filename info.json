@@ -1,11 +1,11 @@
 {
 	"name": "heavyfreight",
-	"version": "0.3.0",
-	"factorio_version": "0.18",
+	"version": "1.3.1",
+	"factorio_version": "1.0",
 	"title": "Heavy Freight",
 	"author": "GrimerX",
 	"description": "Makes trains run slower and consume more fuel.",
 	"homepage": "n/a",
-	"date": "6.1.2019",
+	"date": "9.6.2020",
 	"dependencies": ["base", "? boblogistics", "? angelsaddons-petrotrain", "? angelsaddons-smeltingtrain", "? cargo-ships", "? Realistic_Electric_Trains"]
 }

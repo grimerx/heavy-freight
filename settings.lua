@@ -4,7 +4,7 @@ data:extend({
 		name = "heavy-freight-fuel-consumption-modifier",
 		setting_type = "startup",
 		default_value = 50,
-		allowed_values = {10,50,100,400},
+		allowed_values = {1,10,50,100,400},
 		admin = true,
 		description = "Multiplier to fuel consumption.  This makes managing fuel (usage and stops) more important.",
 		order = "1",
